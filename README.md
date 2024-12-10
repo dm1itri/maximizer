@@ -7,7 +7,7 @@ Maximizer is a plugin that allows you to replace all int in the selected area wi
 
 ## Installation
 ```bash
-git clone 
+git clone https://github.com/dm1itri/maximizer.git
 brew install node
 npm run compile
 ```
